@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Practicando_DAM_CL</string>
+    <string name="title_activity_notas">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_notas">Notas</string>
+    <string name="title_favoritas">Favoritas</string>
+    <string name="title_profile">Mi perfil</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_talleres">talleres</string>
+    <string name="title_inscripcion">inscripcion</string>
+    <string name="title_reglamento">reglamento</string>
+</resources>
